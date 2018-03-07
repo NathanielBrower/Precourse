@@ -1,0 +1,48 @@
+CSS
+<!-- 
+
+        {
+           margin:0px auto;
+        }
+
+    html, body{
+           text-align:center;
+        }
+
+    h1 {
+           color: orangered;
+       }
+
+    body {
+           background-image: url("https://orig00.deviantart.net/6d91/f/2015/270/2/0/sushi_pixel_by_justdejan-d9b2648.png");
+           background-color: palegreen
+        }
+
+    .container {
+           display: flex; /* or inline-flex */
+        }  
+
+    #thirdDiv {
+           margin: auto;
+           border: solid green;
+           border-width: 1px;
+           align-self: center;
+           width: 500px;
+           height: 600px;
+           padding-top: 50px;
+           padding-right: 50px;
+           padding-bottom: 50px;
+           padding-left: 50px;
+           background-color: rgb(121, 187, 121);
+       }
+
+       #spanId {
+           font-size: 18px;
+           margin: 50px;
+       }
+
+       img {
+           width: 400px; 
+       }
+
+-->
